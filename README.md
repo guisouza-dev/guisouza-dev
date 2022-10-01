@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guisouza-dev
-- 👀 I’m interested in Javascript, Php, Python, React.js...
-- 🌱 I’m currently learning HTML5, CSS3
+- 👀 I’m interested in Javascript, Php, Python, React.js, TypeScript
+- 🌱 I’m currently learning HTML5, CSS3, JavaScrit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guilhermedesouza.dev@gmail.com
 
