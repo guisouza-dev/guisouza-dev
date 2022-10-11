@@ -38,7 +38,7 @@ object **Guilherme** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guisouza-dev&show_icons=true&theme=dracula&line_height=27" alt="**Guilherme de Souza** github stats"/>
 </a>
 
-[instagram]: https://https://www.instagram.com/giryrumo/
+[instagram]: https://www.instagram.com/giryrumo/
 [linkedin]: https://linkedin.com/in/guilherme-souza-bab26224a/
 <br>
 
