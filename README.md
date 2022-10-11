@@ -38,6 +38,8 @@ object **Guilherme** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guisouza-dev&show_icons=true&theme=dracula&line_height=27" alt="**Guilherme de Souza** github stats"/>
 </a>
 
+
+
 ![Snake animation](https://github.com/cristiancmoises/cristiancmoises/blob/output/github-contribution-grid-snake.svg)
 
 [instagram]: https://www.instagram.com/giryrumo/
@@ -48,3 +50,6 @@ object **Guilherme** {
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+-----
