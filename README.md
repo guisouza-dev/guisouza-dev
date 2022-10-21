@@ -11,4 +11,4 @@ Currently studying front-end development, I have been developing some projects, 
 🌎 JavaScript
 
 ### Find me 📧
-[![Gmail Badge](https://img.shields.io/badge/-guilhermdesouza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermedesouza.dev@gmail.com)](mailto:guilhermedesouza.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermedesouza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermedesouza.dev@gmail.com)](mailto:guilhermedesouza.dev@gmail.com)
