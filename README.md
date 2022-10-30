@@ -10,5 +10,9 @@ Currently studying front-end development, I have been developing some projects, 
 
 🌎 JavaScript
 
+#### I'm current learning
+
+👉 Angular
+
 ### Find me 📧
 [![Gmail Badge](https://img.shields.io/badge/-guilhermedesouza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermedesouza.dev@gmail.com)](mailto:guilhermedesouza.dev@gmail.com)
