@@ -15,11 +15,13 @@ Currently studying game development, I have been developing some projects, hope 
 
 🌎 JavaScript
 
+🌎 Python
+
 #### I'm current learning
 
 👉 Canvas
 
-👉 Python
+👉 Pygame
 
 ### Find me 📧
 [![Gmail Badge](https://img.shields.io/badge/-guilhermedesouza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermedesouza.dev@gmail.com)](mailto:guilhermedesouza.dev@gmail.com)
