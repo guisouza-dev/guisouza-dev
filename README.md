@@ -1,6 +1,6 @@
 ### Hi, I'm Guilherme, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Currently studying game development with the help of the clear code channel, I have been developing some projects, hope you like it <picture>
+Currently studying game development with the help of the Clear Code channel, I have been developing some projects, hope you like it <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="25" height="25">
 </picture>
